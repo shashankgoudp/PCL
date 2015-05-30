@@ -1,0 +1,11 @@
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/PclMvx.Core.dll.mdb
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/PclMvx.Core.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/obj/Debug/PclMvx.Core.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/obj/Debug/PclMvx.Core.dll.mdb
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Xamarin.Forms.Core.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Cirrious.CrossCore.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Cirrious.MvvmCross.Binding.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Cirrious.MvvmCross.dll
+/Users/agigoud/Projects/PclMvx.Core/PclMvx.Core/bin/Debug/Cirrious.MvvmCross.Localization.dll
